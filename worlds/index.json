@@ -2,7 +2,7 @@
   "worlds": [
     {
       "id": 8,
-      "slug": "world-8",
+      "slug": "诗の子",
       "title": "诗の子",
       "description": "诗歌，这是AIsChat的第一个世界",
       "tags": [
@@ -10,9 +10,10 @@
         "测试"
       ],
       "author_name": "ShuAICFR",
+      "downloads": 1,
       "updated_at": "2026-08-07T11:50:30.601964",
-      "zip": "worlds/world-8/world.zip",
-      "meta": "worlds/world-8/meta.json"
+      "zip": "worlds/诗の子/world.zip",
+      "meta": "worlds/诗の子/meta.json"
     }
   ]
 }
