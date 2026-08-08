@@ -105,6 +105,7 @@
 | 项目 | 说明 |
 |------|------|
 | [**AIsChat**](https://github.com/Coprexist/AIsChat) | 主项目——开源 AI 群聊框架，群聊即世界的入口 |
+| [**AIsChat Client**](https://github.com/Coprexist/AIsChat-Client) | 桌面客户端（Tauri 2）——原生桌面应用，打开即达你的 AI 世界 |
 
 <br>
 
