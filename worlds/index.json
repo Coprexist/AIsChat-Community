@@ -10,8 +10,14 @@
         "测试"
       ],
       "author_name": "ShuAICFR",
+      "author_github": "ShuAICFR",
+      "author_github_id": 47821731,
+      "author_public_key": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEApK9rvQywN7pHhTddBdOP1McdycuSf0gxmAfI21B3Gmw=\n-----END PUBLIC KEY-----\n",
       "downloads": 1,
       "updated_at": "2026-08-07T11:50:30.601964",
+      "zip_sha256": "15bc7d5c3e6ead8b751e92c3f80ab9a81a113ffe5c294c132f4948729156ff98",
+      "signature": "OkFbySRLbJLQrpXoVlTTdLdkLHqR6ooLCIEbBtnglfMmrTVQ7PatyjVV94bJc7E3SZXUtrnBJondMDf1O9w9Bw==",
+      "bot_signature": "B7EvAH/AHduTD5xZPd56nZAwFKQDjVDCOthDHsCdCaOaU3jsDomWBqHIJyY+N8xccpKgjxuPK+WqMsFSWQyCDg==",
       "zip": "worlds/诗の子/world.zip",
       "meta": "worlds/诗の子/meta.json"
     }
